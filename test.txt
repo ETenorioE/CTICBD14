@@ -1,0 +1,7 @@
+Para insertar texto usamos
+SHIFT +I
+Y para cerrar los siguiente
+ESC
+SHIFT+:
+wq
+
